@@ -2,7 +2,7 @@
  * @name GameSense 「gamesense.one」
  * @version 1.0.4
  * @description Get Good. Get [GameSense](https://gamesense.one/).
- * @author Vanilla#7162
+ * @author nuxtjs
 **/
 @import url('https://gamesense.wiki/static/css/gamesense.theme.css?v=1.0.4');
 .theme-dark,.theme-light,:root{
